@@ -1,6 +1,6 @@
 ![VerdeHarvest git](https://github.com/VerdeHarvest/.github/assets/59466195/1779d95d-c2cc-489d-a448-991c90d73424)
 
-# VerdeHarvest: Harnessing the Power of Connectivity.
+# VerdeHarvest: Harvesting the Power of Connectivity.
 
 Welcome to the VerdeHarvest GitHub organization! VerdeHarvest is a transformative platform dedicated to revolutionizing agriculture by connecting farmers, suppliers, and buyers. This repository serves as the central hub for VerdeHarvest's source code and development history.
 
@@ -14,7 +14,7 @@ The repositories are as follows:
 - `verdeharvest-models/`: The models repository hosts the potent Generative AI models harnessed by VerdeHarvest to augment the platform's capabilities. These models, constructed using Python-based AI/ML libraries, play a pivotal role in addressing specific challenges within the agricultural domain.
 
 ## Purpose
-This repository is a collaborative space designed to advance and refine VerdeHarvest. By granting public access, our goal is to encourage community involvement, enabling developers, contributors, and users to delve into the codebase, report issues, and propose enhancements. Together, we aim to transform agriculture and bridge the gap between rural farming and the wider market.
+This orgnaization's repositories are a collaborative space designed to advance and refine VerdeHarvest. By granting public access, our goal is to encourage community involvement, enabling developers, contributors, and users to delve into the codebase, report issues, and propose enhancements. Together, we aim to transform agriculture and bridge the gap between rural farming and the wider market.
 
 ## How Connectivity Transforms Agriculture
 VerdeHarvest capitalizes on the power of connectivity to revolutionize agriculture. Our platform seamlessly connects farmers in rural areas with suppliers and buyers, enhancing accessibility to agricultural produce. Through VerdeHarvest, we're breaking down barriers, reducing surplus produce, and empowering farming communities.
