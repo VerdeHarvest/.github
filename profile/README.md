@@ -1,4 +1,4 @@
-![VerdeHarvest git](https://github.com/VerdeHarvest/.github/assets/59466195/1779d95d-c2cc-489d-a448-991c90d73424)
+![VerdeHarvestLink Logo](https://github.com/VerdeHarvest/.github/assets/59466195/77a3e85e-caf5-4b07-8aac-14437420eff2)
 
 # VerdeHarvestLink: Harvesting the Power of Connectivity.
 
